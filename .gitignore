@@ -1,0 +1,15 @@
+# Debug-Artefakte vom Scraper
+salesforce_scraper/output/debug_page.png
+salesforce_scraper/output/main_content.html
+
+# Rohe HTML-Dateien (Markdown reicht für die Wissensdatenbank)
+salesforce_scraper/output/content/**/*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+
+# macOS
+.DS_Store

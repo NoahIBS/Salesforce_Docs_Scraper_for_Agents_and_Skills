@@ -1,0 +1,142 @@
+<!-- Source: https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_install_analytics.htm&language=en_US&type=5 -->
+<!-- Title: Install and Connect Analytics Objects -->
+<div class="slds-max-small-hide slds-p-bottom_medium" lwc-3eigj2skqo3=""><p class="slds-assistive-text" id="bread-crumb-label" lwc-3eigj2skqo3="">You are here:</p><ol style="list-style-type:none;" aria-labelledby="bread-crumb-label" class="slds-breadcrumb slds-list_horizontal slds-wrap" lwc-3eigj2skqo3=""><li class="slds-breadcrumb__item slds-text-title_caps" lwc-3eigj2skqo3=""><a href="/s/?language=en_US" lwc-3eigj2skqo3="" target="_blank">Salesforce Help</a></li><li class="slds-breadcrumb__item slds-text-title_caps" lwc-3eigj2skqo3=""><a href="/s/products?language=en_US" lwc-3eigj2skqo3="" target="_blank">Docs</a></li><li class="slds-breadcrumb__item slds-text-title_caps" lwc-3eigj2skqo3=""><a href="https://help.salesforce.com/s/articleView?id=mktg.mktg_main.htm&amp;language=en_US&amp;type=5" lwc-3eigj2skqo3="">Marketing Cloud Next</a></li></ol></div>
+  <h1 class="slds-text-heading_large" lwc-3eigj2skqo3="">Install and Connect Analytics Objects</h1>
+  
+  <p lwc-3eigj2skqo3="">Install the analytics packages and add users to analytics folders. Then, head to
+    Digital Experiences to finalize the data connection.</p>
+<div class="slds-section slds-is-open" id="hiddenTables" lwc-3eigj2skqo3=""><div class="slds-section__title" lwc-3eigj2skqo3=""><h3 class="slds-text-title_caps" lwc-3eigj2skqo3="">Required Editions</h3></div><div class="slds-section__content" lwc-3eigj2skqo3=""></div>
+    <div lwc-3eigj2skqo3=""><table class="slds-table slds-table_bordered slds-m-bottom_small edition" lwc-3eigj2skqo3=""><colgroup lwc-3eigj2skqo3=""><col lwc-3eigj2skqo3=""></colgroup><tbody lwc-3eigj2skqo3="">
+            <tr class="" lwc-3eigj2skqo3="">
+              <td style="vertical-align:top;" class="slds-cell-wrap" lwc-3eigj2skqo3="">Available in: <span lwc-3eigj2skqo3="">Salesforce <strong class="uicontrol" lwc-3eigj2skqo3="">Enterprise</strong> and
+            <strong class="uicontrol" lwc-3eigj2skqo3="">Unlimited</strong> Editions with Marketing Cloud Next
+            <strong class="uicontrol" lwc-3eigj2skqo3="">Growth</strong> or <strong class="uicontrol" lwc-3eigj2skqo3="">Advanced</strong> Edition</span></td>
+
+            </tr>
+          </tbody></table><table class="slds-table slds-table_bordered slds-m-bottom_small permission" lwc-3eigj2skqo3=""><colgroup lwc-3eigj2skqo3=""><col style="width:50%" lwc-3eigj2skqo3=""><col style="width:50%" lwc-3eigj2skqo3=""></colgroup><thead class="slds-text-title_caps" lwc-3eigj2skqo3="">
+            <tr class="" lwc-3eigj2skqo3="">
+              <th id="d24240e68" style="text-align:center;vertical-align:top;" colspan="2" class="slds-cell-wrap" scope="colgroup" lwc-3eigj2skqo3="">User Permissions
+                Needed</th>
+            </tr>
+          </thead><tbody lwc-3eigj2skqo3="">
+            <tr class="" lwc-3eigj2skqo3="">
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" data-label="User Permissions Needed" lwc-3eigj2skqo3="">To install data kits and packages:</td>
+
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" lwc-3eigj2skqo3=""><p lwc-3eigj2skqo3="">View Setup and Configuration </p><p lwc-3eigj2skqo3="">OR</p><p lwc-3eigj2skqo3="">System Administrator
+                  profile</p><p lwc-3eigj2skqo3="">OR</p><p style="margin-bottom:0;" lwc-3eigj2skqo3="">Marketing Cloud Admin permission set</p></td>
+
+            </tr>
+            <tr class="" lwc-3eigj2skqo3="">
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" data-label="User Permissions Needed" lwc-3eigj2skqo3="">To deploy data streams:</td>
+
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" lwc-3eigj2skqo3=""><span lwc-3eigj2skqo3="">Data Cloud Architect</span> permission set</td>
+
+            </tr>
+            <tr class="" lwc-3eigj2skqo3="">
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" data-label="User Permissions Needed" lwc-3eigj2skqo3="">To add Digital Experiences integrations:</td>
+
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" lwc-3eigj2skqo3="">Content Admin role</td>
+
+            </tr>
+            <tr class="" lwc-3eigj2skqo3="">
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" data-label="User Permissions Needed" lwc-3eigj2skqo3="">To customize the Analytics tab:</td>
+
+              <td headers="d24240e68" style="vertical-align:top;" class="slds-cell-wrap" lwc-3eigj2skqo3=""><p lwc-3eigj2skqo3="">Marketing Cloud Admin permission set</p><p lwc-3eigj2skqo3="">OR</p><p style="margin-bottom:0;" lwc-3eigj2skqo3="">Marketing Cloud Manager
+                  permission set</p></td>
+
+            </tr>
+          </tbody></table></div>
+    <div lwc-3eigj2skqo3=""><p lwc-3eigj2skqo3="">Before you install the analytics packages, make sure to <a title="Data kits and packages contain the objects, fields, and data connections that make Marketing Cloud Next work. After you install the data kits, the related data streams are automatically deployed in Data 360." href="https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_data_kits_install_main.htm&amp;language=en_US&amp;type=5" lwc-3eigj2skqo3="">install and deploy the required marketing
+          data kits</a>.</p></div>
+    <a name="mktg_admin_install_analytics__steps_kx2_xhf_gcc" lwc-3eigj2skqo3="" href="https://help.salesforce.com/s?language=en_US"></a><ol id="mktg_admin_install_analytics__steps_kx2_xhf_gcc" lwc-3eigj2skqo3=""><li lwc-3eigj2skqo3="">
+        <span lwc-3eigj2skqo3="">From Setup, in the Quick Find box, enter <kbd lwc-3eigj2skqo3="">Marketing Cloud</kbd>. Under
+          Reporting and Optimization, select <strong class="uicontrol" lwc-3eigj2skqo3="">Analytics</strong>.</span>
+      </li><li lwc-3eigj2skqo3="">
+        <span lwc-3eigj2skqo3="">From the Analytics Packages section, install the Marketing Engagement Analytics package
+          for all users.</span>
+      </li><li lwc-3eigj2skqo3="">
+        <span lwc-3eigj2skqo3="">(Optional) If you’re using the SMS add-on, repeat these steps for the SMS Analytics
+          package.</span>
+      </li><li lwc-3eigj2skqo3="">
+        <span lwc-3eigj2skqo3="">(Optional) Configure tracking and analytics for the default Marketing Landing Pages
+          site.</span>
+        <a name="mktg_admin_install_analytics__substeps_btp_4hf_gcc" lwc-3eigj2skqo3="" href="https://help.salesforce.com/s?language=en_US"></a><ol id="mktg_admin_install_analytics__substeps_btp_4hf_gcc" lwc-3eigj2skqo3="">
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">From Setup, in the Quick Find box, enter <kbd lwc-3eigj2skqo3="">All Sites</kbd>. Under
+              Digital Experiences, click <strong class="uicontrol" lwc-3eigj2skqo3="">All Sites</strong>.</span>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">Next to Marketing Landing Pages, select <strong class="uicontrol" lwc-3eigj2skqo3="">Builder</strong>.</span>
+            <div lwc-3eigj2skqo3="">Landing pages in <span lwc-3eigj2skqo3="">Marketing Cloud Next</span> are served using the <span lwc-3eigj2skqo3="">Data 360</span> Sites framework. This site operates behind the
+              scenes—don’t add content to it.</div>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">Click <strong class="uicontrol" lwc-3eigj2skqo3="">Settings</strong> and select
+                <strong class="uicontrol" lwc-3eigj2skqo3="">Integrations</strong>.</span>
+            <div lwc-3eigj2skqo3="">
+              <a name="mktg_admin_install_analytics__image_ctp_4hf_gcc" lwc-3eigj2skqo3="" href="https://help.salesforce.com/s?language=en_US"></a><span style="vertical-align:text-bottom;display:inline-block;" lwc-3eigj2skqo3=""><img alt="Builder icons show Settings expanded on hover." src="https://sf-zdocs-cdn-prod.zoominsoftware.com/tdta-mktg_all-260-0-0-production-enus/35efb7f2-4353-4331-9cfb-b520ece9e2a6/mktg_all/images/mktg_content_site_settings_icon.png" id="mktg_admin_install_analytics__image_ctp_4hf_gcc" style="width:150px;margin-bottom:0;" lwc-3eigj2skqo3=""></span>
+            </div>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">On the <span lwc-3eigj2skqo3="">Data Cloud</span> tile, click <strong class="uicontrol" lwc-3eigj2skqo3="">Add to
+              Site</strong>.</span>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">(Optional) To collect engagement metrics and consent for tracking on landing pages,
+              add the <span lwc-3eigj2skqo3="">Data 360</span> Web Tracking Consent Banner integration. Then,
+              in the site toolbar, click <strong class="uicontrol" lwc-3eigj2skqo3="">Publish</strong>.</span>
+            <div lwc-3eigj2skqo3="">If you don’t need to track consent, skip this step and see <a title="Track visitor activities and engagement across your marketing web pages. Use the data to create more targeted segments and inform your marketing strategy. You can track activity on landing pages hosted by Marketing Cloud Next and on external websites." href="https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_tracking_parent.htm&amp;language=en_US&amp;type=5" lwc-3eigj2skqo3="">Activity Tracking for Landing
+              Pages</a>.</div>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">From Setup, in the Quick Find box, enter <kbd lwc-3eigj2skqo3="">Marketing Cloud</kbd>.
+              Under Reporting and Optimization, select <strong class="uicontrol" lwc-3eigj2skqo3="">Analytics</strong>.</span>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">Install the <a target="_blank" href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1Q000001MpYO" lwc-3eigj2skqo3="">Landing Pages and Forms Analytics package</a> for
+              all users.</span>
+          </li>
+
+        </ol>
+      </li><li lwc-3eigj2skqo3="">
+        <span lwc-3eigj2skqo3="">From the Marketing app, make folders available to users.</span>
+        <a name="mktg_admin_install_analytics__substeps_dtp_4hf_gcc" lwc-3eigj2skqo3="" href="https://help.salesforce.com/s?language=en_US"></a><ol id="mktg_admin_install_analytics__substeps_dtp_4hf_gcc" lwc-3eigj2skqo3="">
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">On the Analytics tab, click <strong class="uicontrol" lwc-3eigj2skqo3="">Browse</strong> (1), and select
+                <strong class="uicontrol" lwc-3eigj2skqo3="">Folders</strong> (2).</span>
+            <div lwc-3eigj2skqo3="">
+              <a name="mktg_admin_install_analytics__image_etp_4hf_gcc" lwc-3eigj2skqo3="" href="https://help.salesforce.com/s?language=en_US"></a><div lwc-3eigj2skqo3=""><img alt="Analytics page with Browse and Folders buttons highlighted." src="https://sf-zdocs-cdn-prod.zoominsoftware.com/tdta-mktg_all-260-0-0-production-enus/35efb7f2-4353-4331-9cfb-b520ece9e2a6/mktg_all/images/mktg_analytics_folders_browse.png" id="mktg_admin_install_analytics__image_etp_4hf_gcc" style="width:600px;" lwc-3eigj2skqo3=""></div>
+            </div>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">For each report or dashboard folder, click <a name="mktg_admin_install_analytics__image_ftp_4hf_gcc" lwc-3eigj2skqo3="" href="https://help.salesforce.com/s?language=en_US"></a><span style="vertical-align:text-bottom;display:inline-block;" lwc-3eigj2skqo3=""><img alt="the Show More Actions icon" src="https://sf-zdocs-cdn-prod.zoominsoftware.com/tdta-mktg_all-260-0-0-production-enus/35efb7f2-4353-4331-9cfb-b520ece9e2a6/mktg_all/images/actions_button.png" id="mktg_admin_install_analytics__image_ftp_4hf_gcc" style="margin-bottom:0;" lwc-3eigj2skqo3=""></span> and select <strong class="uicontrol" lwc-3eigj2skqo3="">Share</strong>.</span>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">For Entire Organization, set the access to Viewer.</span>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">To add other users or groups, such as Editors or Managers, search for them in the
+              Name field, and then apply the correct role.</span>
+          </li>
+
+          <li lwc-3eigj2skqo3="">
+            <span lwc-3eigj2skqo3="">Save the changes.</span>
+          </li>
+
+        </ol>
+      </li></ol>
+
+    <div id="mktg_admin_install_analytics__postreq_gtp_4hf_gcc" lwc-3eigj2skqo3=""><a name="mktg_admin_install_analytics__postreq_gtp_4hf_gcc" lwc-3eigj2skqo3="" href="https://help.salesforce.com/s?language=en_US"></a><p lwc-3eigj2skqo3="">To avoid data processing issues, preserve field visibility for the <span lwc-3eigj2skqo3="">Data 360</span> Salesforce Connector permission set. Visibility can change when
+        you delete a field, change the permissions on a field, or change the API name for a custom
+        field.</p></div>
+  
+</div>

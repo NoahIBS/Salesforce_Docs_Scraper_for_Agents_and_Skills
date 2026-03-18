@@ -1,0 +1,1974 @@
+[
+  {
+    "title": "Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_main.htm&language=en_US&type=5",
+    "level": 1,
+    "hierarchy": [
+      "Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Manage Your Marketing App",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_main.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App"
+    ]
+  },
+  {
+    "title": "Setting Up Your Marketing App",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_overview.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Setting Up Your Marketing App"
+    ]
+  },
+  {
+    "title": "Allocations and Limits",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_limits_ref.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Allocations and Limits"
+    ]
+  },
+  {
+    "title": "Configure Your Marketing Data",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_data_kits_ref.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Your Marketing Data"
+    ]
+  },
+  {
+    "title": "Install and Deploy Data Streams",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_data_kits_install_main.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Your Marketing Data",
+      "Install and Deploy Data Streams"
+    ]
+  },
+  {
+    "title": "Create an Identity Resolution Ruleset",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_data_identity_resolution.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Your Marketing Data",
+      "Create an Identity Resolution Ruleset"
+    ]
+  },
+  {
+    "title": "Enable Data Governance Permissions for Objects in Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_enable_data_governance.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Your Marketing Data",
+      "Enable Data Governance Permissions for Objects in Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Manage User Access",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_user_access.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Manage User Access"
+    ]
+  },
+  {
+    "title": "User Permissions",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_permissions_ref.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Manage User Access",
+      "User Permissions"
+    ]
+  },
+  {
+    "title": "Assign Permission Sets",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_perms_assign.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Manage User Access",
+      "Assign Permission Sets"
+    ]
+  },
+  {
+    "title": "Turn on the Privacy Preference Manager Tab",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_add_privacy_center_tab.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Manage User Access",
+      "Turn on the Privacy Preference Manager Tab"
+    ]
+  },
+  {
+    "title": "Add Workspace Contributors",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_contributors_workspace.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Manage User Access",
+      "Add Workspace Contributors"
+    ]
+  },
+  {
+    "title": "Add Site Contributors",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_contributors_site.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Manage User Access",
+      "Add Site Contributors"
+    ]
+  },
+  {
+    "title": "Set Up Identity-Licensed Users",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_identity.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Manage User Access",
+      "Set Up Identity-Licensed Users"
+    ]
+  },
+  {
+    "title": "Set Up Channels",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_channels.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels"
+    ]
+  },
+  {
+    "title": "Configure Required Email Settings",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_email_verify_sender.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels",
+      "Configure Required Email Settings"
+    ]
+  },
+  {
+    "title": "Set Up Mobile App Messaging",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_mobile_app.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels",
+      "Set Up Mobile App Messaging"
+    ]
+  },
+  {
+    "title": "Set Up Custom Mobile App Events",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_custom_mobile_app_events.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels",
+      "Set Up Custom Mobile App Events"
+    ]
+  },
+  {
+    "title": "Set Up SMS Messaging",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_sms.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels",
+      "Set Up SMS Messaging"
+    ]
+  },
+  {
+    "title": "Set Up WhatsApp",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_whatsapp.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels",
+      "Set Up WhatsApp"
+    ]
+  },
+  {
+    "title": "Ensure Compliance with Consent Settings",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_consent.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels",
+      "Ensure Compliance with Consent Settings"
+    ]
+  },
+  {
+    "title": "Types of Domain Settings",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_domains_ref.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Channels",
+      "Types of Domain Settings"
+    ]
+  },
+  {
+    "title": "Configure Web Tracking",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_tracking_parent.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Web Tracking"
+    ]
+  },
+  {
+    "title": "Considerations for Activity Tracking",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_tracking_considerations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Web Tracking",
+      "Considerations for Activity Tracking"
+    ]
+  },
+  {
+    "title": "Customize the Consent Banner",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_tracking_consent_banner.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Web Tracking",
+      "Customize the Consent Banner"
+    ]
+  },
+  {
+    "title": "Track Activity on Landing Pages",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_tracking_landing_pages_parent.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Web Tracking",
+      "Track Activity on Landing Pages"
+    ]
+  },
+  {
+    "title": "Track Activity on External Sites",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_tracking_external.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Web Tracking",
+      "Track Activity on External Sites"
+    ]
+  },
+  {
+    "title": "Set Up Reporting",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_reporting.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting"
+    ]
+  },
+  {
+    "title": "Set Up Marketing Performance",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_marketing_performance.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Set Up Marketing Performance"
+    ]
+  },
+  {
+    "title": "Set Up Flow Performance",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_flow_performance.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Set Up Flow Performance"
+    ]
+  },
+  {
+    "title": "Set Up Analytics Reports and Dashboards",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_reports.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Set Up Analytics Reports and Dashboards"
+    ]
+  },
+  {
+    "title": "Install and Connect Analytics Objects",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_install_analytics.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Set Up Analytics Reports and Dashboards",
+      "Install and Connect Analytics Objects"
+    ]
+  },
+  {
+    "title": "Turn On Unified Engagement History",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_unified_dashboards_enable.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Turn On Unified Engagement History"
+    ]
+  },
+  {
+    "title": "Attribute Revenue to a Specific Campaign",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_opp_influence_enable.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Attribute Revenue to a Specific Campaign"
+    ]
+  },
+  {
+    "title": "Customize the Analytics Page",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_analytics_customize.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Customize the Analytics Page"
+    ]
+  },
+  {
+    "title": "People and Account Scoring",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_data_scoring_parent.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "People and Account Scoring"
+    ]
+  },
+  {
+    "title": "Considerations for Scoring",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_data_scoring_considerations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "People and Account Scoring",
+      "Considerations for Scoring"
+    ]
+  },
+  {
+    "title": "Default Scoring System",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_data_scoring_default_ref.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "People and Account Scoring",
+      "Default Scoring System"
+    ]
+  },
+  {
+    "title": "Configure Scoring Models",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_data_scoring_setup.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "People and Account Scoring",
+      "Configure Scoring Models"
+    ]
+  },
+  {
+    "title": "Get the Most Out of Scoring",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_data_scoring_use_scoring.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "People and Account Scoring",
+      "Get the Most Out of Scoring"
+    ]
+  },
+  {
+    "title": "Set Up Personalization Features",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_data_graph_setup.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Personalization Features"
+    ]
+  },
+  {
+    "title": "Set Up Distributed Marketing and Alerts",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_distributed_marketing.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Distributed Marketing and Alerts"
+    ]
+  },
+  {
+    "title": "Activate AI Features",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_einstein.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Activate AI Features"
+    ]
+  },
+  {
+    "title": "Set Up a Data Graph for Einstein Send Time Optimization",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_esto_personalization_data_graph.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Activate AI Features",
+      "Set Up a Data Graph for Einstein Send Time Optimization"
+    ]
+  },
+  {
+    "title": "Page Customization",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_page_layouts_ref.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Page Customization"
+    ]
+  },
+  {
+    "title": "Sandbox Testing",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_sandbox.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Sandbox Testing"
+    ]
+  },
+  {
+    "title": "Marketing Cloud Next Glossary",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_glossary.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Marketing Cloud Next Glossary"
+    ]
+  },
+  {
+    "title": "Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.bu_get_started_with_business_units.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units"
+    ]
+  },
+  {
+    "title": "Enable Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_enable_marketing_cloud_next.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Enable Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Create Business Units in Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_create_bus_in_mktg_cloud_next.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Create Business Units in Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Set Up Marketing Cloud Next for a Business Unit",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_setup_mktg_cloud_next_for_a_bu.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit"
+    ]
+  },
+  {
+    "title": "Add Users to a Business Unit",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.bu_add_users_to_business_units.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Add Users to a Business Unit"
+    ]
+  },
+  {
+    "title": "Install the Required Data Kits",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_install_the_required_data_kits.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Install the Required Data Kits"
+    ]
+  },
+  {
+    "title": "Configure Identity Resolution Rulesets for Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_configure_identity_resolution_rulesets.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Configure Identity Resolution Rulesets for Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Configure Business Unit Filters for DLOs",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.configure_dlo_filters_for_bu.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Configure Business Unit Filters for DLOs"
+    ]
+  },
+  {
+    "title": "DLOs Supported for Automated Filtering",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_dlos_supported_for_automated_filtering.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Configure Business Unit Filters for DLOs",
+      "DLOs Supported for Automated Filtering"
+    ]
+  },
+  {
+    "title": "Manage Marketing Channels for Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_set_up_marketing_channels.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Manage Marketing Channels for Business Units"
+    ]
+  },
+  {
+    "title": "Set Up Marketing Performance for Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_set_up_marketing_perf_for_bus.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Set Up Marketing Performance for Business Units"
+    ]
+  },
+  {
+    "title": "Set Up Basic Personalization",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_set_up_basic_personalization.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Set Up Basic Personalization"
+    ]
+  },
+  {
+    "title": "Create People and Account Scoring Rules",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_create_people_and_account_scoring_rules.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Create People and Account Scoring Rules"
+    ]
+  },
+  {
+    "title": "Set up Einstein Features for Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_einstein_setup.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Set up Einstein Features for Business Units"
+    ]
+  },
+  {
+    "title": "Set Up Agentforce for Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_set_up_agentforce_add_einstein.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Set Up Agentforce for Business Units"
+    ]
+  },
+  {
+    "title": "Enable Opportunity Influence for a Business Unit",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_enable_opportunity_influence.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Enable Opportunity Influence for a Business Unit"
+    ]
+  },
+  {
+    "title": "Configure Web Tracking for a Business Unit",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_configure_web_tracking_for_a_business_unit.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Configure Web Tracking for a Business Unit"
+    ]
+  },
+  {
+    "title": "Customize Page Layouts",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_customize_page_layouts.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Set Up Marketing Cloud Next for a Business Unit",
+      "Customize Page Layouts"
+    ]
+  },
+  {
+    "title": "Assign a Communication Subscription to Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_assign_a_communication_subscription.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Assign a Communication Subscription to Business Units"
+    ]
+  },
+  {
+    "title": "Working with Campaigns in Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.working_with_campaigns_in_business_units.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Working with Campaigns in Business Units"
+    ]
+  },
+  {
+    "title": "Working with CMS Workspaces in Business Units",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_bu_working_with_cms_workspaces.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Business Units",
+      "Working with CMS Workspaces in Business Units"
+    ]
+  },
+  {
+    "title": "Agentforce and Einstein",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_learning_map.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein"
+    ]
+  },
+  {
+    "title": "Increase Productivity with AI",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_main.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "Increase Productivity with AI"
+    ]
+  },
+  {
+    "title": "Agentforce for Marketers",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_copilot_in_mc.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "Agentforce for Marketers"
+    ]
+  },
+  {
+    "title": "Agents and Einstein Data Usage",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_data_usage.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "Agents and Einstein Data Usage"
+    ]
+  },
+  {
+    "title": "AI Model Cards and Considerations",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_considerations_modelcards_overview.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations"
+    ]
+  },
+  {
+    "title": "Draft Campaign Content: Considerations",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_draft_content_considerations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Draft Campaign Content: Considerations"
+    ]
+  },
+  {
+    "title": "Model Card: Einstein Engagement Frequency",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_model_card_eef.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Model Card: Einstein Engagement Frequency"
+    ]
+  },
+  {
+    "title": "Model Card: Einstein Engagement Scoring",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_model_card_ees.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Model Card: Einstein Engagement Scoring"
+    ]
+  },
+  {
+    "title": "Model Card: Einstein Send Time Optimization",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_model_card_esto.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Model Card: Einstein Send Time Optimization"
+    ]
+  },
+  {
+    "title": "Monitoring Weekly Einstein Send Time Optimization Predictions",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_chart_esto_weekly_predictions.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Model Card: Einstein Send Time Optimization",
+      "Monitoring Weekly Einstein Send Time Optimization Predictions"
+    ]
+  },
+  {
+    "title": "Model Card: Einstein Metrics Guard",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_model_card_emg.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Model Card: Einstein Metrics Guard"
+    ]
+  },
+  {
+    "title": "Considerations for the Journey Decisioning Agent in Marketing Cloud...",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_journey_decisioning_considerations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Considerations for the Journey Decisioning Agent in Marketing Cloud..."
+    ]
+  },
+  {
+    "title": "Considerations for the Campaign Creation Agent in Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_campaign_creation_considerations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "AI Model Cards and Considerations",
+      "Considerations for the Campaign Creation Agent in Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Data 360 Reports for Einstein Features in Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_einstein_dc_reports.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Agentforce and Einstein",
+      "Data 360 Reports for Einstein Features in Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Comply with Privacy Regulations",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_compliance.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations"
+    ]
+  },
+  {
+    "title": "Understanding Consent Concepts",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_tools_ref.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Understanding Consent Concepts"
+    ]
+  },
+  {
+    "title": "Considerations for Managing Marketing Consent Data",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_considerations.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Considerations for Managing Marketing Consent Data"
+    ]
+  },
+  {
+    "title": "Create a Communication Subscription",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_comm_sub_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Create a Communication Subscription"
+    ]
+  },
+  {
+    "title": "Create a Customizable Preference Page",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_create_customizable_preference_page.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Create a Customizable Preference Page"
+    ]
+  },
+  {
+    "title": "Edit a Preference Page",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_pref_page_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Edit a Preference Page"
+    ]
+  },
+  {
+    "title": "Formatting Marketing Consent Import Files",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_import_format.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Formatting Marketing Consent Import Files"
+    ]
+  },
+  {
+    "title": "Import Consent Data",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_import_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Import Consent Data"
+    ]
+  },
+  {
+    "title": "Review Marketing Consent Data",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_consent_data.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Comply with Privacy Regulations",
+      "Review Marketing Consent Data"
+    ]
+  },
+  {
+    "title": "Audiences and Segmentation",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audiences.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation"
+    ]
+  },
+  {
+    "title": "People Records",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audiences_people_records.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "People Records"
+    ]
+  },
+  {
+    "title": "Considerations for Prospects",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_prospect_considerations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "People Records",
+      "Considerations for Prospects"
+    ]
+  },
+  {
+    "title": "Working with Prospects",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_prospects_leads_convert.htm&language=en_US&type=5#mktg_prospects_leads_convert",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "People Records",
+      "Working with Prospects"
+    ]
+  },
+  {
+    "title": "Convert Prospects",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_prospects_conversion.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "People Records",
+      "Convert Prospects"
+    ]
+  },
+  {
+    "title": "Prospect Field Conversion Mapping",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audience_prospect_field_mapping.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "People Records",
+      "Prospect Field Conversion Mapping"
+    ]
+  },
+  {
+    "title": "Set Up Lead Assignment Rules",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_set_lead_assignment_rules.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "People Records",
+      "Set Up Lead Assignment Rules"
+    ]
+  },
+  {
+    "title": "Understanding Segmentation",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audiences_segmentation.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "Understanding Segmentation"
+    ]
+  },
+  {
+    "title": "Segmentation Concepts and Examples",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audiences_segmentation_concepts.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "Segmentation Concepts and Examples"
+    ]
+  },
+  {
+    "title": "Create a Segment Manually",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audiences_segment_create_manual.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "Create a Segment Manually"
+    ]
+  },
+  {
+    "title": "Co-Create a Segment with Einstein",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audiences_segment_cocreate.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "Co-Create a Segment with Einstein"
+    ]
+  },
+  {
+    "title": "Other Data 360 Features for Marketers",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_audiences_data_cloud_features_ref.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Audiences and Segmentation",
+      "Other Data 360 Features for Marketers"
+    ]
+  },
+  {
+    "title": "Marketing Campaigns and Flows",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_main.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows"
+    ]
+  },
+  {
+    "title": "Understanding Campaigns and Flows in Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_flows_concepts.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Understanding Campaigns and Flows in Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Campaign Record vs. Flow Canvas",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_ref.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Understanding Campaigns and Flows in Marketing Cloud Next",
+      "Campaign Record vs. Flow Canvas"
+    ]
+  },
+  {
+    "title": "Flow Status Reference",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_monitoring_your_flow_status.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Understanding Campaigns and Flows in Marketing Cloud Next",
+      "Flow Status Reference"
+    ]
+  },
+  {
+    "title": "Tools for Tracking and Reporting on Campaigns",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_reporting_ref.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Understanding Campaigns and Flows in Marketing Cloud Next",
+      "Tools for Tracking and Reporting on Campaigns"
+    ]
+  },
+  {
+    "title": "Flow Builder Features and Elements for Marketers",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_flow_elements_reference.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Understanding Campaigns and Flows in Marketing Cloud Next",
+      "Flow Builder Features and Elements for Marketers"
+    ]
+  },
+  {
+    "title": "Campaign Flow Sharing Settings",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.flow_distribute_sharing.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Understanding Campaigns and Flows in Marketing Cloud Next",
+      "Campaign Flow Sharing Settings"
+    ]
+  },
+  {
+    "title": "Share Campaign Flows",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.flow_distribute_sharing_categorize.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Understanding Campaigns and Flows in Marketing Cloud Next",
+      "Campaign Flow Sharing Settings",
+      "Share Campaign Flows"
+    ]
+  },
+  {
+    "title": "Create and Manage a Campaign Flow",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_working.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Create and Manage a Campaign Flow"
+    ]
+  },
+  {
+    "title": "Quick Start: Messaging",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_send_message.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Create and Manage a Campaign Flow",
+      "Quick Start: Messaging"
+    ]
+  },
+  {
+    "title": "Quick Start: Signup Form",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_generate_leads.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Create and Manage a Campaign Flow",
+      "Quick Start: Signup Form"
+    ]
+  },
+  {
+    "title": "Quick Start: Automated Event",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_event.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Create and Manage a Campaign Flow",
+      "Quick Start: Automated Event"
+    ]
+  },
+  {
+    "title": "Working with Segments from a Campaign",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_segments.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Create and Manage a Campaign Flow",
+      "Working with Segments from a Campaign"
+    ]
+  },
+  {
+    "title": "Add Structure and Logic to a Campaign Flow",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_flow_elements_add_move.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Create and Manage a Campaign Flow",
+      "Add Structure and Logic to a Campaign Flow"
+    ]
+  },
+  {
+    "title": "Pausing a Campaign Flow",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_flow_pause.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Create and Manage a Campaign Flow",
+      "Pausing a Campaign Flow"
+    ]
+  },
+  {
+    "title": "Manage Campaigns and Flows with Marketing Calendar",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_track_campaigns_with_calendar.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Manage Campaigns and Flows with Marketing Calendar"
+    ]
+  },
+  {
+    "title": "Add an Event to the Marketing Calendar",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_add_event_to_calendar.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Manage Campaigns and Flows with Marketing Calendar",
+      "Add an Event to the Marketing Calendar"
+    ]
+  },
+  {
+    "title": "Marketing Cloud Engagement Journeys and Campaigns",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_journeys.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Marketing Cloud Engagement Journeys and Campaigns"
+    ]
+  },
+  {
+    "title": "Connect Marketing Cloud Engagement Journeys to Campaigns",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_connect_journeys.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Marketing Campaigns and Flows",
+      "Marketing Cloud Engagement Journeys and Campaigns",
+      "Connect Marketing Cloud Engagement Journeys to Campaigns"
+    ]
+  },
+  {
+    "title": "Manage Marketing Content",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content"
+    ]
+  },
+  {
+    "title": "Types of Marketing Content",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_types_ref.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Types of Marketing Content"
+    ]
+  },
+  {
+    "title": "Content Statuses",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_status_ref.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Content Statuses"
+    ]
+  },
+  {
+    "title": "Create Marketing Content",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create Marketing Content"
+    ]
+  },
+  {
+    "title": "Keyboard Shortcuts",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_keyboard_shortcuts.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create Marketing Content",
+      "Keyboard Shortcuts"
+    ]
+  },
+  {
+    "title": "Organize and Share Content in a Marketing Workspace",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_workspaces.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Organize and Share Content in a Marketing Workspace"
+    ]
+  },
+  {
+    "title": "Brand Marketing Content",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_brand.htm&language=en_US&type=5#mktg_content_brand",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Brand Marketing Content"
+    ]
+  },
+  {
+    "title": "Personalize Marketing Content",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content"
+    ]
+  },
+  {
+    "title": "Manage Data Sources for Personalizing Content",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_data_sources.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Manage Data Sources for Personalizing Content"
+    ]
+  },
+  {
+    "title": "How Dynamic Content and Personalization Work Together",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_ep.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "How Dynamic Content and Personalization Work Together"
+    ]
+  },
+  {
+    "title": "Create Dynamic Content Variations",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_create_variations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Create Dynamic Content Variations"
+    ]
+  },
+  {
+    "title": "Linked Personalization Points",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_ppoint_reuse.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Linked Personalization Points"
+    ]
+  },
+  {
+    "title": "Link Components to an Existing Personalization Point",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_ppoint_link.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Link Components to an Existing Personalization Point"
+    ]
+  },
+  {
+    "title": "Personalize Content with Merge Fields",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_merge_fields.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Personalize Content with Merge Fields"
+    ]
+  },
+  {
+    "title": "Create and Manage an Expression for Merge Fields",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_expression_create.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Create and Manage an Expression for Merge Fields"
+    ]
+  },
+  {
+    "title": "Add a Repeater to a Marketing Email",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_repeater.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Add a Repeater to a Marketing Email"
+    ]
+  },
+  {
+    "title": "Show Personalization Recommendations by Using Repeaters",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_personalization_repeater_recommendation.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Personalize Marketing Content",
+      "Show Personalization Recommendations by Using Repeaters"
+    ]
+  },
+  {
+    "title": "Distributed Marketing and Alerts",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_dm_overview.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Distributed Marketing and Alerts"
+    ]
+  },
+  {
+    "title": "Configure an Approved Email Template for Non-Marketing Users",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_dma_create_message.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Distributed Marketing and Alerts",
+      "Configure an Approved Email Template for Non-Marketing Users"
+    ]
+  },
+  {
+    "title": "Send an Email with an Approved Distributed Marketing Template",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_dm_send_message.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Distributed Marketing and Alerts",
+      "Send an Email with an Approved Distributed Marketing Template"
+    ]
+  },
+  {
+    "title": "Create and Manage a Reusable Content Block",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_reusable_content_blocks.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Reusable Content Block"
+    ]
+  },
+  {
+    "title": "Create and Manage a Mobile In-App Message",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_in_app_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Mobile In-App Message"
+    ]
+  },
+  {
+    "title": "Create and Manage an Email",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_email_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an Email"
+    ]
+  },
+  {
+    "title": "Add Required Consent Details to Promotional Emails",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_email_canspam.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an Email",
+      "Add Required Consent Details to Promotional Emails"
+    ]
+  },
+  {
+    "title": "Create an Email Template",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_create_email_template.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an Email",
+      "Create an Email Template"
+    ]
+  },
+  {
+    "title": "Create and Manage an HTML Email",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_email_html_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an HTML Email"
+    ]
+  },
+  {
+    "title": "Create and Manage an SMS Message",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_sms_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an SMS Message"
+    ]
+  },
+  {
+    "title": "SMS Message Length",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_sms_message_length.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an SMS Message",
+      "SMS Message Length"
+    ]
+  },
+  {
+    "title": "Opt-Out Keywords for SMS Messages",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mcu_content_sms_keywords_optout.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an SMS Message",
+      "Opt-Out Keywords for SMS Messages"
+    ]
+  },
+  {
+    "title": "Understand UTM Parameters",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_sms_utm_parameters.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage an SMS Message",
+      "Understand UTM Parameters"
+    ]
+  },
+  {
+    "title": "Create a WhatsApp Template Message",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_whatsapp_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create a WhatsApp Template Message"
+    ]
+  },
+  {
+    "title": "Create a WhatsApp Session Message",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_whatsapp_session_message_types.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create a WhatsApp Session Message"
+    ]
+  },
+  {
+    "title": "Enable Marketing Messages Lite API",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_whatsapp_mmlite.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Enable Marketing Messages Lite API"
+    ]
+  },
+  {
+    "title": "Create and Manage ‌Push Notifications",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_push_notification.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage ‌Push Notifications"
+    ]
+  },
+  {
+    "title": "Create a Basic Push Notification",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_create_basic_push_notification.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage ‌Push Notifications",
+      "Create a Basic Push Notification"
+    ]
+  },
+  {
+    "title": "Create a Carousel Push Notification",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_create_a_carousel_push_notification.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage ‌Push Notifications",
+      "Create a Carousel Push Notification"
+    ]
+  },
+  {
+    "title": "Create and Manage a Form",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form"
+    ]
+  },
+  {
+    "title": "Data Sources for Forms",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_data_sources.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Data Sources for Forms"
+    ]
+  },
+  {
+    "title": "Use Hidden Fields and Default Values on a Form",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_hidden_fields.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Use Hidden Fields and Default Values on a Form"
+    ]
+  },
+  {
+    "title": "Protect Forms with reCAPTCHA",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_lp_recaptcha.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Protect Forms with reCAPTCHA"
+    ]
+  },
+  {
+    "title": "Using a Form with Landing Pages",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_lp_considerations.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Using a Form with Landing Pages"
+    ]
+  },
+  {
+    "title": "Using a Form on External Sites",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_external.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Using a Form on External Sites"
+    ]
+  },
+  {
+    "title": "Prepare to Use Forms on an External Site",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_external_prep.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Using a Form on External Sites",
+      "Prepare to Use Forms on an External Site"
+    ]
+  },
+  {
+    "title": "Embed a Form on an External Site",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_form_external_embed.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Using a Form on External Sites",
+      "Embed a Form on an External Site"
+    ]
+  },
+  {
+    "title": "Connect External Forms to Salesforce Objects with Form Handler",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_connect_external_forms_to_salesforce_objects_with_form_handler.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Form",
+      "Using a Form on External Sites",
+      "Connect External Forms to Salesforce Objects with Form Handler"
+    ]
+  },
+  {
+    "title": "Create and Manage a Landing Page",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_lp_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Landing Page"
+    ]
+  },
+  {
+    "title": "Create and Manage a Landing Page Template",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_lp_template_create.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Landing Page",
+      "Create and Manage a Landing Page Template"
+    ]
+  },
+  {
+    "title": "URL Details for Marketing Landing Pages",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_lp_url_details.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Landing Page",
+      "URL Details for Marketing Landing Pages"
+    ]
+  },
+  {
+    "title": "SEO Page Properties for Landing Pages",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_lp_seo.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Landing Page",
+      "SEO Page Properties for Landing Pages"
+    ]
+  },
+  {
+    "title": "Create and Manage a Custom Tracked Link",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_tracking_custom_link_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Create and Manage a Custom Tracked Link"
+    ]
+  },
+  {
+    "title": "Track Marketing Content Performance",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_content_performance_tracking.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Marketing Content",
+      "Track Marketing Content Performance"
+    ]
+  },
+  {
+    "title": "Reporting and Analytics",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_reporting.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Reporting and Analytics"
+    ]
+  },
+  {
+    "title": "Report Types",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_reporting_types.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Reporting and Analytics",
+      "Report Types"
+    ]
+  },
+  {
+    "title": "Create and Edit a Report",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_reporting_create.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Reporting and Analytics",
+      "Create and Edit a Report"
+    ]
+  },
+  {
+    "title": "Metrics Formulas",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_reporting_formula_reference.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Reporting and Analytics",
+      "Metrics Formulas"
+    ]
+  },
+  {
+    "title": "Marketing Cloud Next Quick Start Guides",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_quick_start_parent.htm&language=en_US&type=5",
+    "level": 1,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides"
+    ]
+  },
+  {
+    "title": "Email",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_quick_start_parent_email.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides",
+      "Email"
+    ]
+  },
+  {
+    "title": "Set Up Email Sending",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_email_quick_start.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides",
+      "Email",
+      "Set Up Email Sending"
+    ]
+  },
+  {
+    "title": "Send an Email Campaign",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_campaigns_message_quick_start.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides",
+      "Email",
+      "Send an Email Campaign"
+    ]
+  },
+  {
+    "title": "SMS Messaging",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_quick_start_parent_sms.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides",
+      "SMS Messaging"
+    ]
+  },
+  {
+    "title": "Set up SMS",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_sms_quick_start.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides",
+      "SMS Messaging",
+      "Set up SMS"
+    ]
+  },
+  {
+    "title": "Request Required Details",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_sms_quick_start_request_assets.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides",
+      "SMS Messaging",
+      "Request Required Details"
+    ]
+  },
+  {
+    "title": "Manage an SMS Audience",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_sms_quick_start_manage_audience.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next Quick Start Guides",
+      "SMS Messaging",
+      "Manage an SMS Audience"
+    ]
+  },
+  {
+    "title": "UMA Quick Start Steps",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.resource_nextgen_quick_start_steps.htm&language=en_US&type=5",
+    "level": 1,
+    "hierarchy": [
+      "UMA Quick Start Steps"
+    ]
+  },
+  {
+    "title": "Demo Videos for Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_videos.htm&language=en_US&type=5",
+    "level": 1,
+    "hierarchy": [
+      "Demo Videos for Marketing Cloud Next"
+    ]
+  }
+]

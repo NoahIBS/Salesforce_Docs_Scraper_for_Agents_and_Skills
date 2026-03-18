@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Marketing Cloud Next",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_main.htm&language=en_US&type=5",
+    "level": 1,
+    "hierarchy": [
+      "Marketing Cloud Next"
+    ]
+  },
+  {
+    "title": "Manage Your Marketing App",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_main.htm&language=en_US&type=5",
+    "level": 2,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App"
+    ]
+  },
+  {
+    "title": "Setting Up Your Marketing App",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_setup_overview.htm&language=en_US&type=5",
+    "level": 3,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Setting Up Your Marketing App"
+    ]
+  },
+  {
+    "title": "Install and Deploy Data Streams",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_data_kits_install_main.htm&language=en_US&type=5",
+    "level": 4,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Configure Your Marketing Data",
+      "Install and Deploy Data Streams"
+    ]
+  },
+  {
+    "title": "Install and Connect Analytics Objects",
+    "url": "https://help.salesforce.com/s/articleView?id=mktg.mktg_admin_install_analytics.htm&language=en_US&type=5",
+    "level": 5,
+    "hierarchy": [
+      "Marketing Cloud Next",
+      "Manage Your Marketing App",
+      "Set Up Reporting",
+      "Set Up Analytics Reports and Dashboards",
+      "Install and Connect Analytics Objects"
+    ]
+  }
+]
