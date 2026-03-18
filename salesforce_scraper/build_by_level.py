@@ -31,7 +31,8 @@ def run_build_by_level(base_dir=None):
         path = os.path.join(folder, sanitize(hierarchy[-1]) + '.md')
         return path if os.path.exists(path) else None
 
-    copied = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
+    from collections import defaultdict
+    copied = defaultdict(int)
     missing = 0
 
     for link in links:
@@ -55,7 +56,7 @@ def run_build_by_level(base_dir=None):
         copied[level] += 1
 
     print('=== By-Level Ordner erstellt ===')
-    for l in sorted(copied):
+    for l in sorted(copied.keys()):
         print(f'  L{l}: {copied[l]} Dateien')
     print(f'  Noch nicht gescraped: {missing}')
     print(f'  Gesamt: {sum(copied.values())} Dateien')

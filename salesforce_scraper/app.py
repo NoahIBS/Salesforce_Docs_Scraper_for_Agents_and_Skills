@@ -321,14 +321,27 @@ else:
 
     with col_history:
         # Vergangene Runs anzeigen
-        if os.path.exists(RUNS_DIR) and os.listdir(RUNS_DIR):
-            runs = sorted(os.listdir(RUNS_DIR), reverse=True)
-            with st.popover(f"📂 {len(runs)} frühere Runs"):
-                for run_name in runs[:10]:
-                    run_path = os.path.join(RUNS_DIR, run_name, "by_level")
-                    if os.path.exists(run_path):
+        if os.path.exists(RUNS_DIR):
+            runs = sorted(
+                [r for r in os.listdir(RUNS_DIR) if os.path.isdir(os.path.join(RUNS_DIR, r))],
+                reverse=True
+            )
+            valid_runs = [r for r in runs if os.path.exists(os.path.join(RUNS_DIR, r, "by_level"))]
+            if valid_runs:
+                with st.popover(f"📂 {len(valid_runs)} frühere Runs"):
+                    for run_name in valid_runs[:10]:
+                        run_path = os.path.join(RUNS_DIR, run_name, "by_level")
                         file_count = sum(len(f) for _, _, f in os.walk(run_path))
-                        st.text(f"{run_name}  ({file_count} Dateien)")
+                        zip_size_kb = 0
+                        zip_data = create_zip(run_path)
+                        zip_size_kb = len(zip_data) // 1024
+                        st.download_button(
+                            label=f"⬇ {run_name}  ({file_count} Dateien, {zip_size_kb} KB)",
+                            data=zip_data,
+                            file_name=f"salesforce_knowledge_{run_name}.zip",
+                            mime="application/zip",
+                            key=f"dl_{run_name}",
+                        )
 
     if start_clicked and is_valid_url:
         st.session_state.scrape_running = True
